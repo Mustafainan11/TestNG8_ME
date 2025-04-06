@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="mySuit">
+    <test name="test1">
+        <classes>
+            <class name="gün02._07_Intro">
+
+                <methods>
+                    <exclude name="Intro04_Test3"/>
+                </methods>
+
+            </class>
+        </classes>
+    </test>
+    <test name="test2">
+        <classes>
+            <class name="gün02._06_Intro">
+
+                <methods>
+                    <İnculede name="Intro06_Test1"/>
+                </methods>
+
+            </class>
+        </classes>
+    </test>
+</suite>
